@@ -1,0 +1,3 @@
+/home/jpasilveira/CLionProjects/br.com.silveira.listaiv/cmake-build-debug/CMakeFiles/exerciseII.dir
+/home/jpasilveira/CLionProjects/br.com.silveira.listaiv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpasilveira/CLionProjects/br.com.silveira.listaiv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

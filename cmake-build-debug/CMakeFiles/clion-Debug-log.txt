@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/jpasilveira/CLionProjects/br.com.silveira.listaiv -B /home/jpasilveira/CLionProjects/br.com.silveira.listaiv/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jpasilveira/CLionProjects/br.com.silveira.listaiv/cmake-build-debug
